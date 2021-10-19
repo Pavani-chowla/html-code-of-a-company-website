@@ -1,0 +1,37 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>connecting dotes</title>
+</head>
+<body>
+	<img src="https://cdn-icons.flaticon.com/png/128/1240/premium/1240944.png?token=exp=1634661779~hmac=d960190135496b6e746a2d11a72d74c3"width="40" height="40">
+    <input type="Search" name="search" placeholder="search">
+    <p>HOME/LOGIN/ABOUT US/FEATURES/CONTACT</p>
+    <h1>TINI</h1>
+    <label>Email</label><br>
+   	<input type="email" name="user_email" ><br>
+	<label>Password</label><br>
+	<input type="password" name="user_password"><br>
+	<input type="submit"><br><br><br><br>
+	<img src="https://cdn-icons.flaticon.com/png/512/3281/premium/3281842.png?token=exp=1634662258~hmac=cb72e6e5370f036fe551ee3fee176e1b"width="80" height="80">	
+	<img src="https://cdn-icons.flaticon.com/png/128/3051/premium/3051633.png?token=exp=1634662127~hmac=414747b0f807a6c79b0dc002d58dd9b3"width="80" height="80">
+	<img src="https://cdn-icons.flaticon.com/png/512/1652/premium/1652894.png?token=exp=1634662313~hmac=861694309c7386021df49ae88075145c"width="80" height="80"><br>
+    <button type="button">Staff and Their Experience</button>
+    <button type="button">PROJECTS</button>
+    <button type="button">TRIPS & EVENTS</button>
+    <h3>Why Us?</h3>
+    <img src="https://cdn-icons.flaticon.com/png/512/3278/premium/3278775.png?token=exp=1634662666~hmac=bf6ef795743c2cf5c653446e8f31aa48"width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/128/3/3729.png"width="80" height="80">
+    <p>This is dummmy text <br>This is dummy text,<br> this is dummy text<br>this is dummy text.</p>
+    <p>This is dummmy text <br>This is dummy text,<br> this is dummy text<br>this is dummy text.</p>
+    <p>contact:XXXXX</p>
+    <p>Email:xyz@gmail.com</p>
+    <p>Copyright.All Rights reserved</p>
+
+
+
+
+
+</body>
+</html>
